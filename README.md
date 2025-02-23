@@ -3,6 +3,11 @@
 ## Overview
 NewsMaster is a real-time news web application built using React.js. It provides users with up-to-date news across various categories, featuring a sleek top-loading bar for smooth navigation and an infinite scroller for seamless browsing.
 
+## Screenshots
+<img src="https://github.com/RohitParmar-17/NewsMaster/blob/master/screenshots/general.png" alt="General Page" width="100%">
+<img src="https://github.com/RohitParmar-17/NewsMaster/blob/master/screenshots/sports.png" alt="General Page" width="100%">
+<img src="https://github.com/RohitParmar-17/NewsMaster/blob/master/screenshots/entertainment.png" alt="General Page" width="100%">
+
 ## Features
 - **Real-Time News Updates**: Fetches and displays the latest news dynamically using an external API.
 - **Infinite Scrolling**: Users can continuously scroll for more news without needing to navigate manually.
