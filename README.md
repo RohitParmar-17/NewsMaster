@@ -22,8 +22,8 @@ Ensure you have the following installed on your system:
 ### Steps to Run Locally
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/news-master.git
-   cd news-master
+   git clone https://github.com/RohitParmar-17/NewsMaster.git
+   cd NewsMaster
    ```
 
 2. **Install Dependencies**
@@ -65,12 +65,7 @@ If you'd like to contribute:
 - Push to the branch (`git push origin feature-branch`)
 - Open a pull request
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 For any issues or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile/)
+- **Email**: rohitghost5050@gmail.com
 
